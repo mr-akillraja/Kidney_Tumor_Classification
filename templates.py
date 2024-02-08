@@ -23,6 +23,7 @@ list_of_files = [
     "setup.py",
     "research/trails.ipynb",
     "templates/index.html",
+    "requirements.txt"
 ]
 
 for filepath in list_of_files:

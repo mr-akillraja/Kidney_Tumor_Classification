@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: Starting of Deep Learning Project
+Home-page: https://github.com/entbappy/Kidney_Disease-Classification-MLFlow-DVC
+Author: entbappy
+Author-email: mrakillraja@gmail.com
+
+# Kidney_Tumor_Classification
+End to End deep learning Project
+## Kidney Diseases Classification 
+
+### How to Access the Project ? 
+#### Steps 
+- Clone the Repository
+```bash 
+https://github.com/mr-akillraja/Kidney_Tumor_Classification
+```
